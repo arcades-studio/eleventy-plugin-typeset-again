@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/johanbrook/eleventy-plugin-typeset#readme",
   "dependencies": {
-    "typeset": "^0.2.2"
+    "typeset": "^0.3.1"
   },
   "prettier": {
     "trailingComma": "es5",
@@ -46,6 +46,6 @@
     }
   },
   "devDependencies": {
-    "eslint": "^5.6.0"
+    "eslint": "^8.6.0"
   }
 }
