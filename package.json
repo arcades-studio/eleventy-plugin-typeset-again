@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-plugin-typeset",
+  "name": "eleventy-plugin-typeset-again",
   "version": "1.0.1",
-  "description": "A plugin to create nicer typography in sites built with Eleventy.",
+  "description": "A plugin to create nicer typography in sites built with Eleventy (again).",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
